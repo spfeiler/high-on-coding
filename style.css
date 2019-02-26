@@ -1,0 +1,233 @@
+html {
+    font-family: 'Quattrocento Sans', sans-serif;
+}
+
+body {
+width: 1000px;
+margin: 0px auto;
+}
+
+div.categories {
+  background-color: #6895fa;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+h1.categories {
+  font-size: 42px;
+  color: white;
+  display:inline-block;
+  padding-left: 30px;
+}
+
+a.categories {
+font-size: 26px;
+  text-decoration: none;
+  text-decoration-style: none;
+  color: white;
+  display: inline-block;
+  padding-left: 65px;
+}
+
+div.reviews {
+  background-color: lightgray;
+  margin-left: 12%;
+  margin-right: 12%;
+}
+
+h2.reviews {
+  color: darkslategray;
+  font-size: 32px;
+  text-align: justify;
+  padding: 20px 20px 0px 20px;
+}
+
+p.reviews {
+  font-size: 14px;
+  padding: 0px 20px 15px 20px;
+  text-align: justify;
+}
+
+div.watchkit {
+  margin-left: 12%;
+  margin-right: 12%;
+}
+
+h3.watchkit {
+  color: #6895fa;
+  font-size: 24px;
+  text-align: justify;
+  padding: 10px 0px 0px 5px;
+  margin-bottom: 10px;
+}
+
+p.watchkit {
+  font-size: 14px;
+  padding: 0px 0px 0px 0px;
+  text-align: justify;
+  margin: 5px;
+}
+
+div.comments {
+  background-color: #EE7600;
+  margin-left: 12%;
+  margin-right: 12%;
+}
+
+p.comments {
+  font-size: :14px;
+  color: white;
+  display: inline-block;
+  padding: 0px 20px 0px 5px;
+  margin: 5px;
+}
+
+div.swift {
+  margin-left: 12%;
+  margin-right: 12%;
+}
+
+h4.swift {
+  color: #6895fa;
+  font-size: 24px;
+  text-align: justify;
+  padding: 0px 0px 0px 5px;
+  margin-bottom: 10px;
+}
+
+p.swift {
+  font-size: 14px;
+  padding: 0px 0px 0px 0px;
+  text-align: justify;
+  margin: 5px;
+}
+
+div.js {
+  background-color: lightgray;
+  display: inline-block;
+  height: 175px;
+  width: 225px;
+  margin-top: 2%;
+  margin-left: 11%;
+}
+
+h2.js {
+  font-size: 40px;
+  text-align: center;
+  padding-top: 30px;
+}
+
+p.js {
+  font-size: 14px;
+  color: gray;
+  text-align: center;
+  padding-top: 5px;
+}
+
+div.c {
+  background-color: lightgray;
+  display: inline-block;
+  height: 175px;
+  width: 225px;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+h2.c {
+  font-size: 40px;
+  text-align: center;
+  padding-top: 30px;
+}
+
+p.c {
+  font-size: 14px;
+  color: gray;
+  text-align: center;
+  padding-top: 5px;
+}
+
+div.objc {
+  background-color: lightgray;
+  display: inline-block;
+  height: 175px;
+  width: 225px;
+  margin-top: 2%;
+}
+
+h2.objc {
+  font-size: 40px;
+  text-align: center;
+  padding-top: 30px;
+}
+
+p.objc {
+  font-size: 14px;
+  color: gray;
+  text-align: center;
+  padding-top: 5px;
+}
+
+div.database {
+  background-color: lightgray;
+  display: inline-block;
+  height: 175px;
+  width: 225px;
+  margin-top: 2%;
+  margin-left: 11%;
+}
+
+h2.database {
+  font-size: 40px;
+  text-align: center;
+  padding-top: 30px;
+}
+
+p.database {
+  font-size: 14px;
+  color: gray;
+  text-align: center;
+  padding-top: 5px;
+}
+
+div.python {
+  background-color: lightgray;
+  display: inline-block;
+  height: 175px;
+  width: 225px;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+h2.python {
+  font-size: 40px;
+  text-align: center;
+  padding-top: 30px;
+}
+
+p.python {
+  font-size: 14px;
+  color: gray;
+  text-align: center;
+  padding-top: 5px;
+}
+
+div.vb {
+  background-color: lightgray;
+  display: inline-block;
+  height: 175px;
+  width: 225px;
+  margin-top: 2%;
+}
+
+h2.vb {
+  font-size: 40px;
+  text-align: center;
+  padding-top: 30px;
+}
+
+p.vb {
+  font-size: 14px;
+  color: gray;
+  text-align: center;
+  padding-top: 5px;
+}
